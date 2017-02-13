@@ -1,0 +1,16 @@
+City,Team,Pop_2017,Pop_2016,Pop_2015,Pop_2014,Pop_2013,Pop_2012,Pop_2011,latitude,longitude,name,desc,color,source,precision
+Chicago,Bulls,21615,21820,21343,21716,21876,22161,21791,41.875555,-87.624421,Chicago,"Chicago, Cook County, IL, US",,MapQuest Open,city/town
+Cleveland,Cavaliers,20562,20562,20562,17329,16192,15926,20112,41.505161,-81.693445,Cleveland,"Cleveland, Cuyahoga County, OH, US",,MapQuest Open,city/town
+Toronto,Raptors,19846,19825,19751,18252,18144,16835,16566,43.652921,-79.384901,Toronto,"Toronto, ON, CA",,MapQuest Open,city/town
+New York City,Knicks,19812,19812,19812,19812,19033,19763,19728,40.724579,-73.988898,New York City,"New York City, New York County, NY, US",,MapQuest Open,NEIGHBORHOOD
+Salt Lake City,Jazz,19653,19304,18830,18175,18680,19306,19511,40.767013,-111.890431,Salt Lake City,"Salt Lake City, Utah, UT, US",,MapQuest Open,city/town
+Miami,Heat,19637,19740,19712,19781,19982,19935,19778,25.774266,-80.193659,Miami,"Miami, Miami-Dade County, FL, US",,MapQuest Open,city/town
+Dallas,Mavericks,19636,20143,20187,19950,20036,20334,20101,32.776272,-96.796856,Dallas,"Dallas, Dallas County, TX, US",,MapQuest Open,city/town
+Oakland,Warriors,19596,19596,19596,19596,19373,18857,18692,37.804456,-122.271356,Oakland,"Oakland, Alameda County, CA, US",,MapQuest Open,city/town
+Portland,Trail Blazers,19194,19367,19554,19746,19829,20496,20510,45.520247,-122.674195,Portland,"Portland, Multnomah County, OR, US",,MapQuest Open,city/town
+Los Angeles,Clippers,19080,19192,19168,19212,19226,19219,17742,34.054394,-118.243941,Los Angeles,"Los Angeles, Los Angeles County, CA, US",,MapQuest Open,city/town
+Los Angeles,Lakers,18901,18997,18737,18828,18997,18997,18997,34.054394,-118.243941,Los Angeles,"Los Angeles, Los Angeles County, CA, US",,MapQuest Open,city/town
+Boston,Celtics,18516,18270,17593,18107,18624,18624,18624,42.360482,-71.059568,Boston,"Boston, Suffolk County, MA, US",,MapQuest Open,city/town
+San Antonio,Spurs,18426,18449,18606,18415,18431,18396,18314,29.4246,-98.49514,San Antonio,"San Antonio, Bexar County, TX, US",,MapQuest Open,city/town
+Oklahoma City,Thunder,18203,18203,18203,18203,18203,18203,18148,35.472989,-97.517054,Oklahoma City,"Oklahoma City, Oklahoma County, OK, US",,MapQuest Open,city/town
+Orlando,Magic,17905,17543,16785,16245,17595,18896,18972,28.542118,-81.379046,Orlando,"Orlando, Orange County, FL, US",,MapQuest Open,city/town

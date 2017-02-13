@@ -1,0 +1,410 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.624421,
+          41.875555
+        ]
+      },
+      "properties": {
+        "name": "Chicago",
+        "City": "Chicago",
+        "Team": "Bulls",
+        "Pop_2017": 21615,
+        "Pop_2016": 21820,
+        "Pop_2015": 21343,
+        "Pop_2014": 21716,
+        "Pop_2013": 21876,
+        "Pop_2012": 22161,
+        "Pop_2011": 21791,
+        "latitude": 41.875555,
+        "longitude": -87.624421,
+        "desc": "Chicago, Cook County, IL, US",
+        "color": "MapQuest Open",
+        "source": "city/town"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.693445,
+          41.505161
+        ]
+      },
+      "properties": {
+        "name": "Cleveland",
+        "City": "Cleveland",
+        "Team": "Cavaliers",
+        "Pop_2017": 20562,
+        "Pop_2016": 20562,
+        "Pop_2015": 20562,
+        "Pop_2014": 17329,
+        "Pop_2013": 16192,
+        "Pop_2012": 15926,
+        "Pop_2011": 20112,
+        "latitude": 41.505161,
+        "longitude": -81.693445,
+        "desc": "Cleveland, Cuyahoga County, OH, US",
+        "color": "MapQuest Open",
+        "source": "city/town"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.384901,
+          43.652921
+        ]
+      },
+      "properties": {
+        "name": "Toronto",
+        "City": "Toronto",
+        "Team": "Raptors",
+        "Pop_2017": 19846,
+        "Pop_2016": 19825,
+        "Pop_2015": 19751,
+        "Pop_2014": 18252,
+        "Pop_2013": 18144,
+        "Pop_2012": 16835,
+        "Pop_2011": 16566,
+        "latitude": 43.652921,
+        "longitude": -79.384901,
+        "desc": "Toronto, ON, CA",
+        "color": "MapQuest Open",
+        "source": "city/town"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.988898,
+          40.724579
+        ]
+      },
+      "properties": {
+        "name": "New York City",
+        "City": "New York City",
+        "Team": "Knicks",
+        "Pop_2017": 19812,
+        "Pop_2016": 19812,
+        "Pop_2015": 19812,
+        "Pop_2014": 19812,
+        "Pop_2013": 19033,
+        "Pop_2012": 19763,
+        "Pop_2011": 19728,
+        "latitude": 40.724579,
+        "longitude": -73.988898,
+        "desc": "New York City, New York County, NY, US",
+        "color": "MapQuest Open",
+        "source": "NEIGHBORHOOD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.890431,
+          40.767013
+        ]
+      },
+      "properties": {
+        "name": "Salt Lake City",
+        "City": "Salt Lake City",
+        "Team": "Jazz",
+        "Pop_2017": 19653,
+        "Pop_2016": 19304,
+        "Pop_2015": 18830,
+        "Pop_2014": 18175,
+        "Pop_2013": 18680,
+        "Pop_2012": 19306,
+        "Pop_2011": 19511,
+        "latitude": 40.767013,
+        "longitude": -111.890431,
+        "desc": "Salt Lake City, Utah, UT, US",
+        "color": "MapQuest Open",
+        "source": "city/town"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.193659,
+          25.774266
+        ]
+      },
+      "properties": {
+        "name": "Miami",
+        "City": "Miami",
+        "Team": "Heat",
+        "Pop_2017": 19637,
+        "Pop_2016": 19740,
+        "Pop_2015": 19712,
+        "Pop_2014": 19781,
+        "Pop_2013": 19982,
+        "Pop_2012": 19935,
+        "Pop_2011": 19778,
+        "latitude": 25.774266,
+        "longitude": -80.193659,
+        "desc": "Miami, Miami-Dade County, FL, US",
+        "color": "MapQuest Open",
+        "source": "city/town"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.796856,
+          32.776272
+        ]
+      },
+      "properties": {
+        "name": "Dallas",
+        "City": "Dallas",
+        "Team": "Mavericks",
+        "Pop_2017": 19636,
+        "Pop_2016": 20143,
+        "Pop_2015": 20187,
+        "Pop_2014": 19950,
+        "Pop_2013": 20036,
+        "Pop_2012": 20334,
+        "Pop_2011": 20101,
+        "latitude": 32.776272,
+        "longitude": -96.796856,
+        "desc": "Dallas, Dallas County, TX, US",
+        "color": "MapQuest Open",
+        "source": "city/town"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.271356,
+          37.804456
+        ]
+      },
+      "properties": {
+        "name": "Oakland",
+        "City": "Oakland",
+        "Team": "Warriors",
+        "Pop_2017": 19596,
+        "Pop_2016": 19596,
+        "Pop_2015": 19596,
+        "Pop_2014": 19596,
+        "Pop_2013": 19373,
+        "Pop_2012": 18857,
+        "Pop_2011": 18692,
+        "latitude": 37.804456,
+        "longitude": -122.271356,
+        "desc": "Oakland, Alameda County, CA, US",
+        "color": "MapQuest Open",
+        "source": "city/town"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.674195,
+          45.520247
+        ]
+      },
+      "properties": {
+        "name": "Portland",
+        "City": "Portland",
+        "Team": "Trail Blazers",
+        "Pop_2017": 19194,
+        "Pop_2016": 19367,
+        "Pop_2015": 19554,
+        "Pop_2014": 19746,
+        "Pop_2013": 19829,
+        "Pop_2012": 20496,
+        "Pop_2011": 20510,
+        "latitude": 45.520247,
+        "longitude": -122.674195,
+        "desc": "Portland, Multnomah County, OR, US",
+        "color": "MapQuest Open",
+        "source": "city/town"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.243941,
+          34.054394
+        ]
+      },
+      "properties": {
+        "name": "Los Angeles",
+        "City": "Los Angeles",
+        "Team": "Clippers",
+        "Pop_2017": 19080,
+        "Pop_2016": 19192,
+        "Pop_2015": 19168,
+        "Pop_2014": 19212,
+        "Pop_2013": 19226,
+        "Pop_2012": 19219,
+        "Pop_2011": 17742,
+        "latitude": 34.054394,
+        "longitude": -118.243941,
+        "desc": "Los Angeles, Los Angeles County, CA, US",
+        "color": "MapQuest Open",
+        "source": "city/town"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.243941,
+          34.054394
+        ]
+      },
+      "properties": {
+        "name": "Los Angeles",
+        "City": "Los Angeles",
+        "Team": "Lakers",
+        "Pop_2017": 18901,
+        "Pop_2016": 18997,
+        "Pop_2015": 18737,
+        "Pop_2014": 18828,
+        "Pop_2013": 18997,
+        "Pop_2012": 18997,
+        "Pop_2011": 18997,
+        "latitude": 34.054394,
+        "longitude": -118.243941,
+        "desc": "Los Angeles, Los Angeles County, CA, US",
+        "color": "MapQuest Open",
+        "source": "city/town"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.059568,
+          42.360482
+        ]
+      },
+      "properties": {
+        "name": "Boston",
+        "City": "Boston",
+        "Team": "Celtics",
+        "Pop_2017": 18516,
+        "Pop_2016": 18270,
+        "Pop_2015": 17593,
+        "Pop_2014": 18107,
+        "Pop_2013": 18624,
+        "Pop_2012": 18624,
+        "Pop_2011": 18624,
+        "latitude": 42.360482,
+        "longitude": -71.059568,
+        "desc": "Boston, Suffolk County, MA, US",
+        "color": "MapQuest Open",
+        "source": "city/town"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.49514,
+          29.4246
+        ]
+      },
+      "properties": {
+        "name": "San Antonio",
+        "City": "San Antonio",
+        "Team": "Spurs",
+        "Pop_2017": 18426,
+        "Pop_2016": 18449,
+        "Pop_2015": 18606,
+        "Pop_2014": 18415,
+        "Pop_2013": 18431,
+        "Pop_2012": 18396,
+        "Pop_2011": 18314,
+        "latitude": 29.4246,
+        "longitude": -98.49514,
+        "desc": "San Antonio, Bexar County, TX, US",
+        "color": "MapQuest Open",
+        "source": "city/town"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.517054,
+          35.472989
+        ]
+      },
+      "properties": {
+        "name": "Oklahoma City",
+        "City": "Oklahoma City",
+        "Team": "Thunder",
+        "Pop_2017": 18203,
+        "Pop_2016": 18203,
+        "Pop_2015": 18203,
+        "Pop_2014": 18203,
+        "Pop_2013": 18203,
+        "Pop_2012": 18203,
+        "Pop_2011": 18148,
+        "latitude": 35.472989,
+        "longitude": -97.517054,
+        "desc": "Oklahoma City, Oklahoma County, OK, US",
+        "color": "MapQuest Open",
+        "source": "city/town"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.379046,
+          28.542118
+        ]
+      },
+      "properties": {
+        "name": "Orlando",
+        "City": "Orlando",
+        "Team": "Magic",
+        "Pop_2017": 17905,
+        "Pop_2016": 17543,
+        "Pop_2015": 16785,
+        "Pop_2014": 16245,
+        "Pop_2013": 17595,
+        "Pop_2012": 18896,
+        "Pop_2011": 18972,
+        "latitude": 28.542118,
+        "longitude": -81.379046,
+        "desc": "Orlando, Orange County, FL, US",
+        "color": "MapQuest Open",
+        "source": "city/town"
+      }
+    }
+  ]
+}

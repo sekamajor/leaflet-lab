@@ -1,0 +1,323 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="NbaAttendance" id="NbaAttendance">
+	<SimpleField name="City" type="string"></SimpleField>
+	<SimpleField name="Team" type="string"></SimpleField>
+	<SimpleField name="Pop_2017" type="int"></SimpleField>
+	<SimpleField name="Pop_2016" type="int"></SimpleField>
+	<SimpleField name="Pop_2015" type="int"></SimpleField>
+	<SimpleField name="Pop_2014" type="int"></SimpleField>
+	<SimpleField name="Pop_2013" type="int"></SimpleField>
+	<SimpleField name="Pop_2012" type="int"></SimpleField>
+	<SimpleField name="Pop_2011" type="int"></SimpleField>
+	<SimpleField name="latitude" type="float"></SimpleField>
+	<SimpleField name="longitude" type="float"></SimpleField>
+	<SimpleField name="desc" type="string"></SimpleField>
+	<SimpleField name="color" type="string"></SimpleField>
+	<SimpleField name="source" type="string"></SimpleField>
+	<SimpleField name="precision" type="string"></SimpleField>
+</Schema>
+<Folder><name>NbaAttendance</name>
+  <Placemark>
+	<name>Chicago</name>
+	<ExtendedData><SchemaData schemaUrl="#NbaAttendance">
+		<SimpleData name="City">Chicago</SimpleData>
+		<SimpleData name="Team">Bulls</SimpleData>
+		<SimpleData name="Pop_2017">21615</SimpleData>
+		<SimpleData name="Pop_2016">21820</SimpleData>
+		<SimpleData name="Pop_2015">21343</SimpleData>
+		<SimpleData name="Pop_2014">21716</SimpleData>
+		<SimpleData name="Pop_2013">21876</SimpleData>
+		<SimpleData name="Pop_2012">22161</SimpleData>
+		<SimpleData name="Pop_2011">21791</SimpleData>
+		<SimpleData name="latitude">41.875555</SimpleData>
+		<SimpleData name="longitude">-87.624421</SimpleData>
+		<SimpleData name="desc">Chicago, Cook County, IL, US</SimpleData>
+		<SimpleData name="color">MapQuest Open</SimpleData>
+		<SimpleData name="source">city/town</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.624421,41.875555</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Cleveland</name>
+	<ExtendedData><SchemaData schemaUrl="#NbaAttendance">
+		<SimpleData name="City">Cleveland</SimpleData>
+		<SimpleData name="Team">Cavaliers</SimpleData>
+		<SimpleData name="Pop_2017">20562</SimpleData>
+		<SimpleData name="Pop_2016">20562</SimpleData>
+		<SimpleData name="Pop_2015">20562</SimpleData>
+		<SimpleData name="Pop_2014">17329</SimpleData>
+		<SimpleData name="Pop_2013">16192</SimpleData>
+		<SimpleData name="Pop_2012">15926</SimpleData>
+		<SimpleData name="Pop_2011">20112</SimpleData>
+		<SimpleData name="latitude">41.505161</SimpleData>
+		<SimpleData name="longitude">-81.693445</SimpleData>
+		<SimpleData name="desc">Cleveland, Cuyahoga County, OH, US</SimpleData>
+		<SimpleData name="color">MapQuest Open</SimpleData>
+		<SimpleData name="source">city/town</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-81.693445,41.505161</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Toronto</name>
+	<ExtendedData><SchemaData schemaUrl="#NbaAttendance">
+		<SimpleData name="City">Toronto</SimpleData>
+		<SimpleData name="Team">Raptors</SimpleData>
+		<SimpleData name="Pop_2017">19846</SimpleData>
+		<SimpleData name="Pop_2016">19825</SimpleData>
+		<SimpleData name="Pop_2015">19751</SimpleData>
+		<SimpleData name="Pop_2014">18252</SimpleData>
+		<SimpleData name="Pop_2013">18144</SimpleData>
+		<SimpleData name="Pop_2012">16835</SimpleData>
+		<SimpleData name="Pop_2011">16566</SimpleData>
+		<SimpleData name="latitude">43.652921</SimpleData>
+		<SimpleData name="longitude">-79.384901</SimpleData>
+		<SimpleData name="desc">Toronto, ON, CA</SimpleData>
+		<SimpleData name="color">MapQuest Open</SimpleData>
+		<SimpleData name="source">city/town</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-79.384901,43.652921</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>New York City</name>
+	<ExtendedData><SchemaData schemaUrl="#NbaAttendance">
+		<SimpleData name="City">New York City</SimpleData>
+		<SimpleData name="Team">Knicks</SimpleData>
+		<SimpleData name="Pop_2017">19812</SimpleData>
+		<SimpleData name="Pop_2016">19812</SimpleData>
+		<SimpleData name="Pop_2015">19812</SimpleData>
+		<SimpleData name="Pop_2014">19812</SimpleData>
+		<SimpleData name="Pop_2013">19033</SimpleData>
+		<SimpleData name="Pop_2012">19763</SimpleData>
+		<SimpleData name="Pop_2011">19728</SimpleData>
+		<SimpleData name="latitude">40.724579</SimpleData>
+		<SimpleData name="longitude">-73.988898</SimpleData>
+		<SimpleData name="desc">New York City, New York County, NY, US</SimpleData>
+		<SimpleData name="color">MapQuest Open</SimpleData>
+		<SimpleData name="source">NEIGHBORHOOD</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.988898,40.724579</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Salt Lake City</name>
+	<ExtendedData><SchemaData schemaUrl="#NbaAttendance">
+		<SimpleData name="City">Salt Lake City</SimpleData>
+		<SimpleData name="Team">Jazz</SimpleData>
+		<SimpleData name="Pop_2017">19653</SimpleData>
+		<SimpleData name="Pop_2016">19304</SimpleData>
+		<SimpleData name="Pop_2015">18830</SimpleData>
+		<SimpleData name="Pop_2014">18175</SimpleData>
+		<SimpleData name="Pop_2013">18680</SimpleData>
+		<SimpleData name="Pop_2012">19306</SimpleData>
+		<SimpleData name="Pop_2011">19511</SimpleData>
+		<SimpleData name="latitude">40.767013</SimpleData>
+		<SimpleData name="longitude">-111.890431</SimpleData>
+		<SimpleData name="desc">Salt Lake City, Utah, UT, US</SimpleData>
+		<SimpleData name="color">MapQuest Open</SimpleData>
+		<SimpleData name="source">city/town</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-111.890431,40.767013</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Miami</name>
+	<ExtendedData><SchemaData schemaUrl="#NbaAttendance">
+		<SimpleData name="City">Miami</SimpleData>
+		<SimpleData name="Team">Heat</SimpleData>
+		<SimpleData name="Pop_2017">19637</SimpleData>
+		<SimpleData name="Pop_2016">19740</SimpleData>
+		<SimpleData name="Pop_2015">19712</SimpleData>
+		<SimpleData name="Pop_2014">19781</SimpleData>
+		<SimpleData name="Pop_2013">19982</SimpleData>
+		<SimpleData name="Pop_2012">19935</SimpleData>
+		<SimpleData name="Pop_2011">19778</SimpleData>
+		<SimpleData name="latitude">25.774266</SimpleData>
+		<SimpleData name="longitude">-80.193659</SimpleData>
+		<SimpleData name="desc">Miami, Miami-Dade County, FL, US</SimpleData>
+		<SimpleData name="color">MapQuest Open</SimpleData>
+		<SimpleData name="source">city/town</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-80.193659,25.774266</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Dallas</name>
+	<ExtendedData><SchemaData schemaUrl="#NbaAttendance">
+		<SimpleData name="City">Dallas</SimpleData>
+		<SimpleData name="Team">Mavericks</SimpleData>
+		<SimpleData name="Pop_2017">19636</SimpleData>
+		<SimpleData name="Pop_2016">20143</SimpleData>
+		<SimpleData name="Pop_2015">20187</SimpleData>
+		<SimpleData name="Pop_2014">19950</SimpleData>
+		<SimpleData name="Pop_2013">20036</SimpleData>
+		<SimpleData name="Pop_2012">20334</SimpleData>
+		<SimpleData name="Pop_2011">20101</SimpleData>
+		<SimpleData name="latitude">32.776272</SimpleData>
+		<SimpleData name="longitude">-96.796856</SimpleData>
+		<SimpleData name="desc">Dallas, Dallas County, TX, US</SimpleData>
+		<SimpleData name="color">MapQuest Open</SimpleData>
+		<SimpleData name="source">city/town</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-96.796856,32.776272</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Oakland</name>
+	<ExtendedData><SchemaData schemaUrl="#NbaAttendance">
+		<SimpleData name="City">Oakland</SimpleData>
+		<SimpleData name="Team">Warriors</SimpleData>
+		<SimpleData name="Pop_2017">19596</SimpleData>
+		<SimpleData name="Pop_2016">19596</SimpleData>
+		<SimpleData name="Pop_2015">19596</SimpleData>
+		<SimpleData name="Pop_2014">19596</SimpleData>
+		<SimpleData name="Pop_2013">19373</SimpleData>
+		<SimpleData name="Pop_2012">18857</SimpleData>
+		<SimpleData name="Pop_2011">18692</SimpleData>
+		<SimpleData name="latitude">37.804456</SimpleData>
+		<SimpleData name="longitude">-122.271356</SimpleData>
+		<SimpleData name="desc">Oakland, Alameda County, CA, US</SimpleData>
+		<SimpleData name="color">MapQuest Open</SimpleData>
+		<SimpleData name="source">city/town</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-122.271356,37.804456</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Portland</name>
+	<ExtendedData><SchemaData schemaUrl="#NbaAttendance">
+		<SimpleData name="City">Portland</SimpleData>
+		<SimpleData name="Team">Trail Blazers</SimpleData>
+		<SimpleData name="Pop_2017">19194</SimpleData>
+		<SimpleData name="Pop_2016">19367</SimpleData>
+		<SimpleData name="Pop_2015">19554</SimpleData>
+		<SimpleData name="Pop_2014">19746</SimpleData>
+		<SimpleData name="Pop_2013">19829</SimpleData>
+		<SimpleData name="Pop_2012">20496</SimpleData>
+		<SimpleData name="Pop_2011">20510</SimpleData>
+		<SimpleData name="latitude">45.520247</SimpleData>
+		<SimpleData name="longitude">-122.674195</SimpleData>
+		<SimpleData name="desc">Portland, Multnomah County, OR, US</SimpleData>
+		<SimpleData name="color">MapQuest Open</SimpleData>
+		<SimpleData name="source">city/town</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-122.674195,45.520247</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Los Angeles</name>
+	<ExtendedData><SchemaData schemaUrl="#NbaAttendance">
+		<SimpleData name="City">Los Angeles</SimpleData>
+		<SimpleData name="Team">Clippers</SimpleData>
+		<SimpleData name="Pop_2017">19080</SimpleData>
+		<SimpleData name="Pop_2016">19192</SimpleData>
+		<SimpleData name="Pop_2015">19168</SimpleData>
+		<SimpleData name="Pop_2014">19212</SimpleData>
+		<SimpleData name="Pop_2013">19226</SimpleData>
+		<SimpleData name="Pop_2012">19219</SimpleData>
+		<SimpleData name="Pop_2011">17742</SimpleData>
+		<SimpleData name="latitude">34.054394</SimpleData>
+		<SimpleData name="longitude">-118.243941</SimpleData>
+		<SimpleData name="desc">Los Angeles, Los Angeles County, CA, US</SimpleData>
+		<SimpleData name="color">MapQuest Open</SimpleData>
+		<SimpleData name="source">city/town</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-118.243941,34.054394</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Los Angeles</name>
+	<ExtendedData><SchemaData schemaUrl="#NbaAttendance">
+		<SimpleData name="City">Los Angeles</SimpleData>
+		<SimpleData name="Team">Lakers</SimpleData>
+		<SimpleData name="Pop_2017">18901</SimpleData>
+		<SimpleData name="Pop_2016">18997</SimpleData>
+		<SimpleData name="Pop_2015">18737</SimpleData>
+		<SimpleData name="Pop_2014">18828</SimpleData>
+		<SimpleData name="Pop_2013">18997</SimpleData>
+		<SimpleData name="Pop_2012">18997</SimpleData>
+		<SimpleData name="Pop_2011">18997</SimpleData>
+		<SimpleData name="latitude">34.054394</SimpleData>
+		<SimpleData name="longitude">-118.243941</SimpleData>
+		<SimpleData name="desc">Los Angeles, Los Angeles County, CA, US</SimpleData>
+		<SimpleData name="color">MapQuest Open</SimpleData>
+		<SimpleData name="source">city/town</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-118.243941,34.054394</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Boston</name>
+	<ExtendedData><SchemaData schemaUrl="#NbaAttendance">
+		<SimpleData name="City">Boston</SimpleData>
+		<SimpleData name="Team">Celtics</SimpleData>
+		<SimpleData name="Pop_2017">18516</SimpleData>
+		<SimpleData name="Pop_2016">18270</SimpleData>
+		<SimpleData name="Pop_2015">17593</SimpleData>
+		<SimpleData name="Pop_2014">18107</SimpleData>
+		<SimpleData name="Pop_2013">18624</SimpleData>
+		<SimpleData name="Pop_2012">18624</SimpleData>
+		<SimpleData name="Pop_2011">18624</SimpleData>
+		<SimpleData name="latitude">42.360482</SimpleData>
+		<SimpleData name="longitude">-71.059568</SimpleData>
+		<SimpleData name="desc">Boston, Suffolk County, MA, US</SimpleData>
+		<SimpleData name="color">MapQuest Open</SimpleData>
+		<SimpleData name="source">city/town</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-71.059568,42.360482</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>San Antonio</name>
+	<ExtendedData><SchemaData schemaUrl="#NbaAttendance">
+		<SimpleData name="City">San Antonio</SimpleData>
+		<SimpleData name="Team">Spurs</SimpleData>
+		<SimpleData name="Pop_2017">18426</SimpleData>
+		<SimpleData name="Pop_2016">18449</SimpleData>
+		<SimpleData name="Pop_2015">18606</SimpleData>
+		<SimpleData name="Pop_2014">18415</SimpleData>
+		<SimpleData name="Pop_2013">18431</SimpleData>
+		<SimpleData name="Pop_2012">18396</SimpleData>
+		<SimpleData name="Pop_2011">18314</SimpleData>
+		<SimpleData name="latitude">29.4246</SimpleData>
+		<SimpleData name="longitude">-98.49514</SimpleData>
+		<SimpleData name="desc">San Antonio, Bexar County, TX, US</SimpleData>
+		<SimpleData name="color">MapQuest Open</SimpleData>
+		<SimpleData name="source">city/town</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-98.49514,29.4246</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Oklahoma City</name>
+	<ExtendedData><SchemaData schemaUrl="#NbaAttendance">
+		<SimpleData name="City">Oklahoma City</SimpleData>
+		<SimpleData name="Team">Thunder</SimpleData>
+		<SimpleData name="Pop_2017">18203</SimpleData>
+		<SimpleData name="Pop_2016">18203</SimpleData>
+		<SimpleData name="Pop_2015">18203</SimpleData>
+		<SimpleData name="Pop_2014">18203</SimpleData>
+		<SimpleData name="Pop_2013">18203</SimpleData>
+		<SimpleData name="Pop_2012">18203</SimpleData>
+		<SimpleData name="Pop_2011">18148</SimpleData>
+		<SimpleData name="latitude">35.472989</SimpleData>
+		<SimpleData name="longitude">-97.517054</SimpleData>
+		<SimpleData name="desc">Oklahoma City, Oklahoma County, OK, US</SimpleData>
+		<SimpleData name="color">MapQuest Open</SimpleData>
+		<SimpleData name="source">city/town</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-97.517054,35.472989</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Orlando</name>
+	<ExtendedData><SchemaData schemaUrl="#NbaAttendance">
+		<SimpleData name="City">Orlando</SimpleData>
+		<SimpleData name="Team">Magic</SimpleData>
+		<SimpleData name="Pop_2017">17905</SimpleData>
+		<SimpleData name="Pop_2016">17543</SimpleData>
+		<SimpleData name="Pop_2015">16785</SimpleData>
+		<SimpleData name="Pop_2014">16245</SimpleData>
+		<SimpleData name="Pop_2013">17595</SimpleData>
+		<SimpleData name="Pop_2012">18896</SimpleData>
+		<SimpleData name="Pop_2011">18972</SimpleData>
+		<SimpleData name="latitude">28.542118</SimpleData>
+		<SimpleData name="longitude">-81.379046</SimpleData>
+		<SimpleData name="desc">Orlando, Orange County, FL, US</SimpleData>
+		<SimpleData name="color">MapQuest Open</SimpleData>
+		<SimpleData name="source">city/town</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-81.379046,28.542118</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>
