@@ -15,9 +15,10 @@ getData(mymap);
 /*var popup = L.popup()
     .setLatLng([51.5, -0.09])
     .setContent("I am a standalone popup.")
-    .openOn(mymap);
+    .openOn(mymap);*/
 
-var popup = L.popup();*/
+
+var popup = L.popup();
 
 function onMapClick(e) {
     popup
@@ -54,6 +55,7 @@ function getData(map){
             //create a Leaflet GeoJSON layer and add it to the map
             L.geoJson(response, {
                 pointToLayer: function (feature, latlng){
+                    //returns a marker with the circle shape with characteristics defined by the geojsonMarkerOptions variable
                     return L.circleMarker(latlng, geojsonMarkerOptions);
                 },
                  onEachFeature: onEachFeature,
