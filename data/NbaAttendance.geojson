@@ -1,6 +1,7 @@
 {
   "type": "FeatureCollection",
   "features": [
+   
     {
       "type": "Feature",
       "geometry": {
@@ -25,7 +26,8 @@
         "longitude": -87.624421,
         "desc": "Chicago, Cook County, IL, US",
         "color": "MapQuest Open",
-        "source": "city/town"
+        "source": "city/town",
+        "arena_size": 23000
       }
     },
     {
@@ -52,7 +54,8 @@
         "longitude": -81.693445,
         "desc": "Cleveland, Cuyahoga County, OH, US",
         "color": "MapQuest Open",
-        "source": "city/town"
+        "source": "city/town",
+        "arena_size": 20562
       }
     },
     {
@@ -79,7 +82,8 @@
         "longitude": -79.384901,
         "desc": "Toronto, ON, CA",
         "color": "MapQuest Open",
-        "source": "city/town"
+        "source": "city/town",
+        "arena_size": 20511
       }
     },
     {
@@ -106,7 +110,8 @@
         "longitude": -73.988898,
         "desc": "New York City, New York County, NY, US",
         "color": "MapQuest Open",
-        "source": "NEIGHBORHOOD"
+        "source": "NEIGHBORHOOD",
+        "arena_size": 20789
       }
     },
     {
@@ -133,7 +138,8 @@
         "longitude": -111.890431,
         "desc": "Salt Lake City, Utah, UT, US",
         "color": "MapQuest Open",
-        "source": "city/town"
+        "source": "city/town",
+        "arena_size": 19911
       }
     },
     {
@@ -160,7 +166,8 @@
         "longitude": -80.193659,
         "desc": "Miami, Miami-Dade County, FL, US",
         "color": "MapQuest Open",
-        "source": "city/town"
+        "source": "city/town",
+        "arena_size": 20021
       }
     },
     {
@@ -187,7 +194,8 @@
         "longitude": -96.796856,
         "desc": "Dallas, Dallas County, TX, US",
         "color": "MapQuest Open",
-        "source": "city/town"
+        "source": "city/town",
+        "arena_size": 21000
       }
     },
     {
@@ -214,7 +222,8 @@
         "longitude": -122.271356,
         "desc": "Oakland, Alameda County, CA, US",
         "color": "MapQuest Open",
-        "source": "city/town"
+        "source": "city/town",
+        "arena_size": 19596
       }
     },
     {
@@ -241,7 +250,8 @@
         "longitude": -122.674195,
         "desc": "Portland, Multnomah County, OR, US",
         "color": "MapQuest Open",
-        "source": "city/town"
+        "source": "city/town",
+        "arena_size": 21538
       }
     },
     {
@@ -268,7 +278,8 @@
         "longitude": -118.243941,
         "desc": "Los Angeles, Los Angeles County, CA, US",
         "color": "MapQuest Open",
-        "source": "city/town"
+        "source": "city/town",
+        "arena_size": 21000
       }
     },
     {
@@ -295,7 +306,8 @@
         "longitude": -118.243941,
         "desc": "Los Angeles, Los Angeles County, CA, US",
         "color": "MapQuest Open",
-        "source": "city/town"
+        "source": "city/town",
+        "arena_size": 21000
       }
     },
     {
@@ -322,7 +334,8 @@
         "longitude": -71.059568,
         "desc": "Boston, Suffolk County, MA, US",
         "color": "MapQuest Open",
-        "source": "city/town"
+        "source": "city/town",
+        "arena_size": 18624
       }
     },
     {
@@ -349,7 +362,8 @@
         "longitude": -98.49514,
         "desc": "San Antonio, Bexar County, TX, US",
         "color": "MapQuest Open",
-        "source": "city/town"
+        "source": "city/town",
+        "arena_size": 19000
       }
     },
     {
@@ -376,7 +390,8 @@
         "longitude": -97.517054,
         "desc": "Oklahoma City, Oklahoma County, OK, US",
         "color": "MapQuest Open",
-        "source": "city/town"
+        "source": "city/town",
+        "arena_size": 18203
       }
     },
     {
@@ -403,7 +418,372 @@
         "longitude": -81.379046,
         "desc": "Orlando, Orange County, FL, US",
         "color": "MapQuest Open",
-        "source": "city/town"
+        "source": "city/town",
+        "arena_size": 20000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.5181,
+          38.649
+        ]
+      },
+      "properties": {
+        "name": "Sacramento",
+        "City": "Sacramento",
+        "Team": "Kings",
+        "Pop_2017": 17608,
+        "Pop_2016": 17256,
+        "Pop_2015": 16586,
+        "Pop_2014": 16291,
+        "Pop_2013": 13749,
+        "Pop_2012": 14508,
+        "Pop_2011": 13890,
+        "latitude": 38.649,
+        "longitude": -121.5181,
+        "desc": "city/town",
+        "arena_size": 18000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.172,
+          39.9012
+        ]
+      },
+      "properties": {
+        "name": "Philadelphia",
+        "City": "Philadelphia",
+        "Team": "76ers",
+        "Pop_2017": 17287,
+        "Pop_2016": 14881,
+        "Pop_2015": 13940,
+        "Pop_2014": 13869,
+        "Pop_2013": 16717,
+        "Pop_2012": 17502,
+        "Pop_2011": 14751,
+        "latitude": 39.9012,
+        "longitude": -75.172,
+        "desc": "city/town",
+        "arena_size": 21600
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.0712,
+          33.4457
+        ]
+      },
+      "properties": {
+        "name": "Phoenix",
+        "City": "Phoenix",
+        "Team": "Suns",
+        "Pop_2017": 17267,
+        "Pop_2016": 17107,
+        "Pop_2015": 16923,
+        "Pop_2014": 15871,
+        "Pop_2013": 15436,
+        "Pop_2012": 15597,
+        "Pop_2011": 17567,
+        "latitude": 33.4457,
+        "longitude": -112.0712,
+        "desc": "city/town",
+        "arena_size": 18055
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.8392,
+          35.2251
+        ]
+      },
+      "properties": {
+        "name": "Charlotte",
+        "City": "Charlotte",
+        "Team": "Hornets",
+        "Pop_2017": 17229,
+        "Pop_2016": 17485,
+        "Pop_2015": 17192,
+        "Pop_2014": 15518,
+        "Pop_2013": 15324,
+        "Pop_2012": 14757,
+        "Pop_2011": 15846,
+        "latitude": 35.2251,
+        "longitude": -80.8392,
+        "desc": "city/town",
+        "arena_size": 19077
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.1555,
+          39.7639
+        ]
+      },
+      "properties": {
+        "name": "Indianapolis",
+        "City": "Indianapolis",
+        "Team": "Pacers",
+        "Pop_2017": 16694,
+        "Pop_2016": 16847,
+        "Pop_2015": 16864,
+        "Pop_2014": 17501,
+        "Pop_2013": 15269,
+        "Pop_2012": 14168,
+        "Pop_2011": 13538,
+        "latitude": 39.7639,
+        "longitude": -86.1555,
+        "desc": "city/town",
+        "arena_size": 17923
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.3621,
+          29.7508
+        ]
+      },
+      "properties": {
+        "name": "Houston",
+        "City": "Houston",
+        "Team": "Rockets",
+        "Pop_2017": 16593,
+        "Pop_2016": 17981,
+        "Pop_2015": 18229,
+        "Pop_2014": 18123,
+        "Pop_2013": 16672,
+        "Pop_2012": 15363,
+        "Pop_2011": 16191,
+        "latitude": 29.7508,
+        "longitude": -95.3621,
+        "desc": "city/town",
+        "arena_size": 19000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.0505,
+          35.1382
+        ]
+      },
+      "properties": {
+        "name": "Memphis",
+        "City": "Memphis",
+        "Team": "Grizzlies",
+        "Pop_2017": 16404,
+        "Pop_2016": 16697,
+        "Pop_2015": 17329,
+        "Pop_2014": 16718,
+        "Pop_2013": 16624,
+        "Pop_2012": 15704,
+        "Pop_2011": 14650,
+        "latitude": 35.1382,
+        "longitude": -90.0505,
+        "desc": "city/town",
+        "arena_size": 18119
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0209,
+          38.8981
+        ]
+      },
+      "properties": {
+        "name": "Washington DC",
+        "City": "Washington D.C.",
+        "Team": "Wizards",
+        "Pop_2017": 16213,
+        "Pop_2016": 17693,
+        "Pop_2015": 18238,
+        "Pop_2014": 17026,
+        "Pop_2013": 16343,
+        "Pop_2012": 16728,
+        "Pop_2011": 16791,
+        "latitude": 38.8981,
+        "longitude": -77.0209,
+        "desc": "city/town",
+        "arena_size": 20356
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.0821,
+          29.949
+        ]
+      },
+      "properties": {
+        "name": "New Orleans",
+        "City": "New Orleans",
+        "Team": "Pelicans",
+        "Pop_2017": 16026,
+        "Pop_2016": 16793,
+        "Pop_2015": 16677,
+        "Pop_2014": 16390,
+        "Pop_2013": 13803,
+        "Pop_2012": 15109,
+        "Pop_2011": 14709,
+        "latitude": 29.949,
+        "longitude": -90.0821,
+        "desc": "city/town",
+        "arena_size": 16867
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.3963,
+          33.7573
+        ]
+      },
+      "properties": {
+        "name": "Atlanta",
+        "City": "Atlanta",
+        "Team": "Hawks",
+        "Pop_2017": 15847,
+        "Pop_2016": 16832,
+        "Pop_2015": 17412,
+        "Pop_2014": 14339,
+        "Pop_2013": 15125,
+        "Pop_2012": 15199,
+        "Pop_2011": 15648,
+        "latitude": 33.7573,
+        "longitude": -84.3963,
+        "desc": "city/town",
+        "arena_size": 19049
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.2458,
+          42.6969
+        ]
+      },
+      "properties": {
+        "name": "Auburn Hills",
+        "City": "Detroit",
+        "Team": "Pistons",
+        "Pop_2017": 15416,
+        "Pop_2016": 16515,
+        "Pop_2015": 15266,
+        "Pop_2014": 15005,
+        "Pop_2013": 14782,
+        "Pop_2012": 14413,
+        "Pop_2011": 16660,
+        "latitude": 42.6969,
+        "longitude": -83.2458,
+        "desc": "city/town",
+        "arena_size": 19971
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.9178,
+          43.0419
+        ]
+      },
+      "properties": {
+        "name": "Milwaukee",
+        "City": "Milwaukee",
+        "Team": "Bucks",
+        "Pop_2017": 15406,
+        "Pop_2016": 15166,
+        "Pop_2015": 14907,
+        "Pop_2014": 13487,
+        "Pop_2013": 15035,
+        "Pop_2012": 14718,
+        "Pop_2011": 15412,
+        "latitude": 43.0419,
+        "longitude": -87.9178,
+        "desc": "city/town",
+        "arena_size": 18717
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.975,
+          40.6825
+        ]
+      },
+      "properties": {
+        "name": "Brooklyn",
+        "City": "Brooklyn",
+        "Team": "Nets",
+        "Pop_2017": 15310,
+        "Pop_2016": 15125,
+        "Pop_2015": 17037,
+        "Pop_2014": 17251,
+        "Pop_2013": 17187,
+        "Pop_2012": 13961,
+        "Pop_2011": 14179,
+        "latitude": 40.6825,
+        "longitude": -73.975,
+        "desc": "city/town",
+        "arena_size": 18103
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.2762,
+          44.9795
+        ]
+      },
+      "properties": {
+        "name": "Minneapolis",
+        "City": "Minneapolis",
+        "Team": "Timberwolves",
+        "Pop_2017": 14226,
+        "Pop_2016": 14175,
+        "Pop_2015": 14528,
+        "Pop_2014": 14564,
+        "Pop_2013": 16340,
+        "Pop_2012": 17490,
+        "Pop_2011": 15242,
+        "latitude": 44.9795,
+        "longitude": -93.2762,
+        "desc": "city/town",
+        "arena_size": 19356
       }
     }
   ]

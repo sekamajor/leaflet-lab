@@ -1,16 +1,31 @@
-City,Team,Pop_2017,Pop_2016,Pop_2015,Pop_2014,Pop_2013,Pop_2012,Pop_2011,latitude,longitude,name,desc,color,source,precision
-Chicago,Bulls,21615,21820,21343,21716,21876,22161,21791,41.875555,-87.624421,Chicago,"Chicago, Cook County, IL, US",,MapQuest Open,city/town
-Cleveland,Cavaliers,20562,20562,20562,17329,16192,15926,20112,41.505161,-81.693445,Cleveland,"Cleveland, Cuyahoga County, OH, US",,MapQuest Open,city/town
-Toronto,Raptors,19846,19825,19751,18252,18144,16835,16566,43.652921,-79.384901,Toronto,"Toronto, ON, CA",,MapQuest Open,city/town
-New York City,Knicks,19812,19812,19812,19812,19033,19763,19728,40.724579,-73.988898,New York City,"New York City, New York County, NY, US",,MapQuest Open,NEIGHBORHOOD
-Salt Lake City,Jazz,19653,19304,18830,18175,18680,19306,19511,40.767013,-111.890431,Salt Lake City,"Salt Lake City, Utah, UT, US",,MapQuest Open,city/town
-Miami,Heat,19637,19740,19712,19781,19982,19935,19778,25.774266,-80.193659,Miami,"Miami, Miami-Dade County, FL, US",,MapQuest Open,city/town
-Dallas,Mavericks,19636,20143,20187,19950,20036,20334,20101,32.776272,-96.796856,Dallas,"Dallas, Dallas County, TX, US",,MapQuest Open,city/town
-Oakland,Warriors,19596,19596,19596,19596,19373,18857,18692,37.804456,-122.271356,Oakland,"Oakland, Alameda County, CA, US",,MapQuest Open,city/town
-Portland,Trail Blazers,19194,19367,19554,19746,19829,20496,20510,45.520247,-122.674195,Portland,"Portland, Multnomah County, OR, US",,MapQuest Open,city/town
-Los Angeles,Clippers,19080,19192,19168,19212,19226,19219,17742,34.054394,-118.243941,Los Angeles,"Los Angeles, Los Angeles County, CA, US",,MapQuest Open,city/town
-Los Angeles,Lakers,18901,18997,18737,18828,18997,18997,18997,34.054394,-118.243941,Los Angeles,"Los Angeles, Los Angeles County, CA, US",,MapQuest Open,city/town
-Boston,Celtics,18516,18270,17593,18107,18624,18624,18624,42.360482,-71.059568,Boston,"Boston, Suffolk County, MA, US",,MapQuest Open,city/town
-San Antonio,Spurs,18426,18449,18606,18415,18431,18396,18314,29.4246,-98.49514,San Antonio,"San Antonio, Bexar County, TX, US",,MapQuest Open,city/town
-Oklahoma City,Thunder,18203,18203,18203,18203,18203,18203,18148,35.472989,-97.517054,Oklahoma City,"Oklahoma City, Oklahoma County, OK, US",,MapQuest Open,city/town
-Orlando,Magic,17905,17543,16785,16245,17595,18896,18972,28.542118,-81.379046,Orlando,"Orlando, Orange County, FL, US",,MapQuest Open,city/town
+City,Team,Pop_2017,Pop_2016,Pop_2015,Pop_2014,Pop_2013,Pop_2012,Pop_2011,latitude,longitude,name,desc,color,source,precision,size
+Chicago,Bulls,21615,21820,21343,21716,21876,22161,21791,41.875555,-87.624421,Chicago,"Chicago, Cook County, IL, US",,MapQuest Open,city/town,23000
+Cleveland,Cavaliers,20562,20562,20562,17329,16192,15926,20112,41.505161,-81.693445,Cleveland,"Cleveland, Cuyahoga County, OH, US",,MapQuest Open,city/town,20562
+Toronto,Raptors,19846,19825,19751,18252,18144,16835,16566,43.652921,-79.384901,Toronto,"Toronto, ON, CA",,MapQuest Open,city/town,20511
+New York City,Knicks,19812,19812,19812,19812,19033,19763,19728,40.724579,-73.988898,New York City,"New York City, New York County, NY, US",,MapQuest Open,NEIGHBORHOOD,20789
+Salt Lake City,Jazz,19653,19304,18830,18175,18680,19306,19511,40.767013,-111.890431,Salt Lake City,"Salt Lake City, Utah, UT, US",,MapQuest Open,city/town,19911
+Miami,Heat,19637,19740,19712,19781,19982,19935,19778,25.774266,-80.193659,Miami,"Miami, Miami-Dade County, FL, US",,MapQuest Open,city/town,20021
+Dallas,Mavericks,19636,20143,20187,19950,20036,20334,20101,32.776272,-96.796856,Dallas,"Dallas, Dallas County, TX, US",,MapQuest Open,city/town,21000
+Oakland,Warriors,19596,19596,19596,19596,19373,18857,18692,37.804456,-122.271356,Oakland,"Oakland, Alameda County, CA, US",,MapQuest Open,city/town,19596
+Portland,Trail Blazers,19194,19367,19554,19746,19829,20496,20510,45.520247,-122.674195,Portland,"Portland, Multnomah County, OR, US",,MapQuest Open,city/town,21538
+Los Angeles,Clippers,19080,19192,19168,19212,19226,19219,17742,34.054394,-118.243941,Los Angeles,"Los Angeles, Los Angeles County, CA, US",,MapQuest Open,city/town,21000
+Los Angeles,Lakers,18901,18997,18737,18828,18997,18997,18997,34.054394,-118.243941,Los Angeles,"Los Angeles, Los Angeles County, CA, US",,MapQuest Open,city/town,21000
+Boston,Celtics,18516,18270,17593,18107,18624,18624,18624,42.360482,-71.059568,Boston,"Boston, Suffolk County, MA, US",,MapQuest Open,city/town,18624
+San Antonio,Spurs,18426,18449,18606,18415,18431,18396,18314,29.4246,-98.49514,San Antonio,"San Antonio, Bexar County, TX, US",,MapQuest Open,city/town,19000
+Oklahoma City,Thunder,18203,18203,18203,18203,18203,18203,18148,35.472989,-97.517054,Oklahoma City,"Oklahoma City, Oklahoma County, OK, US",,MapQuest Open,city/town,18203
+Orlando,Magic,17905,17543,16785,16245,17595,18896,18972,28.542118,-81.379046,Orlando,"Orlando, Orange County, FL, US",,MapQuest Open,city/town,20000
+Sacramento,Kings,17608,17256,16586,16291,13749,14508,13890,38.649,-121.5181,Sacramento,,,,city/town,18000
+Philadelphia,76ers,17287,14881,13940,13869,16717,17502,14751,39.9012,-75.172,Philadelphia,,,,city/town,21600
+Phoenix,Suns,17267,17107,16923,15871,15436,15597,17567,33.4457,-112.0712,Phoenix,,,,city/town,18055
+Charlotte,Hornets,17229,17485,17192,15518,15324,14757,15846,35.2251,-80.8392,Charlotte,,,,city/town,19077
+Indianapolis,Pacers,16694,16847,16864,17501,15269,14168,13538,39.7639,-86.1555,Indianapolis,,,,city/town,17923
+Houston,Rockets,16593,17981,18229,18123,16672,15363,16191,29.7508,-95.3621,Houston,,,,city/town,19000
+Memphis,Grizzlies,16404,16697,17329,16718,16624,15704,14650,35.1382,-90.0505,Memphis,,,,city/town,18119
+Washington D.C.,Wizards,16213,17693,18238,17026,16343,16728,16791,38.8981,-77.0209,Washington DC,,,,city/town,20356
+New Orleans,Pelicans,16026,16793,16677,16390,13803,15109,14709,29.949,-90.0821,New Orleans,,,,city/town,16867
+Atlanta,Hawks,15847,16832,17412,14339,15125,15199,15648,33.7573,-84.3963,Atlanta,,,,city/town,19049
+Detroit,Pistons,15416,16515,15266,15005,14782,14413,16660,42.6969,-83.2458,Auburn Hills,,,,city/town,19971
+Milwaukee,Bucks,15406,15166,14907,13487,15035,14718,15412,43.0419,-87.9178,Milwaukee,,,,city/town,18717
+Brooklyn,Nets,15310,15125,17037,17251,17187,13961,14179,40.6825,-73.975,Brooklyn,,,,city/town,18103
+Minneapolis,Timberwolves,14226,14175,14528,14564,16340,17490,15242,44.9795,-93.2762,Minneapolis,,,,city/town,19356
+Denver Nuggets,,13927,14095,14700,16899,17819,17029,16901,39.7487,-105.0077,Denver,,,,city/town,18007

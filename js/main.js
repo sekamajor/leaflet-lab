@@ -37,24 +37,39 @@ function onEachFeature(feature, layer) {
         layer.bindPopup(popupContent);
     };
 };
-function getData(map){
-    //load the data
-    $.ajax("data/NbaAttendance.geojson", {
-        dataType: "json",
-        success: function(response){
-            //create marker options
+function createPropSymbols (data,map){
+    //create marker options
+            var attribute = "Pop_2012";
+            var stadiumSize = "arena_size";
             var geojsonMarkerOptions = {
                 radius: 8,
                 fillColor: "#ff7800",
                 color: "#000",
                 weight: 1,
-                opacity: 1,
+                opacity: 100,
                 fillOpacity: 0.8,
             };
+    function calcPropRadius(attValue){
+    //scale factor to adjust symbol size evenly
+    var scaleFactor = 100;
+    //area based on attribute value and scale factor
+    var area = attValue * scaleFactor;
+    //radius calculated based on area
+    var radius = Math.sqrt(area/Math.PI);
 
-            //create a Leaflet GeoJSON layer and add it to the map
-            L.geoJson(response, {
+    return radius;
+
+};
+
+//create a Leaflet GeoJSON layer and add it to the map
+            L.geoJson(data, {
                 pointToLayer: function (feature, latlng){
+                    var attributeValue = Number(feature.properties[attribute]/feature.properties[stadiumSize]);
+                   console.log(feature.properties, attributeValue);
+                   geojsonMarkerOptions.radius = calcPropRadius(attributeValue);
+
+
+
                     //returns a marker with the circle shape with characteristics defined by the geojsonMarkerOptions variable
                     return L.circleMarker(latlng, geojsonMarkerOptions);
                 },
@@ -64,6 +79,15 @@ function getData(map){
                 }
 
             }).addTo(map);
+}
+function getData(map){
+    //load the data
+    $.ajax("data/NbaAttendance.geojson", {
+        dataType: "json",
+        success: function(response){
+            var geojsonMarkerOptions = createPropSymbols(response,map);
+
+            
         }
     });
 };
