@@ -1,0 +1,845 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "City": "Chicago",
+        "Team": "Bulls",
+        "HomeWins_2017": 18,
+        "HomeWins_2016": 26,
+        "HomeWins_2015": 27,
+        "HomeWins_2014": 27,
+        "HomeWins_2013": 24,
+        "HomeWins_2012": 26,
+        "HomeWins_2011": 36,
+        "name": "Chicago",
+        "desc": "Chicago, Cook County, IL, US",
+        "color": "",
+        "source": "MapQuest Open",
+        "precision": "city/town",
+        "Home_Games_Played": 41,
+        "Lockout_Season": 33
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.624421,
+          41.875555
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "City": "Cleveland",
+        "Team": "Cavaliers",
+        "HomeWins_2017": 26,
+        "HomeWins_2016": 33,
+        "HomeWins_2015": 31,
+        "HomeWins_2014": 19,
+        "HomeWins_2013": 14,
+        "HomeWins_2012": 11,
+        "HomeWins_2011": 12,
+        "name": "Cleveland",
+        "desc": "Cleveland, Cuyahoga County, OH, US",
+        "color": "",
+        "source": "MapQuest Open",
+        "precision": "city/town",
+        "Home_Games_Played": 41,
+        "Lockout_Season": 33
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.693445,
+          41.505161
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "City": "Toronto",
+        "Team": "Raptors",
+        "HomeWins_2017": 21,
+        "HomeWins_2016": 32,
+        "HomeWins_2015": 27,
+        "HomeWins_2014": 26,
+        "HomeWins_2013": 21,
+        "HomeWins_2012": 13,
+        "HomeWins_2011": 16,
+        "name": "Toronto",
+        "desc": "Toronto, ON, CA",
+        "color": "",
+        "source": "MapQuest Open",
+        "precision": "city/town",
+        "Home_Games_Played": 41,
+        "Lockout_Season": 33
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.384901,
+          43.652921
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "City": "New York City",
+        "Team": "Knicks",
+        "HomeWins_2017": 15,
+        "HomeWins_2016": 18,
+        "HomeWins_2015": 10,
+        "HomeWins_2014": 19,
+        "HomeWins_2013": 31,
+        "HomeWins_2012": 22,
+        "HomeWins_2011": 23,
+        "name": "New York City",
+        "desc": "New York City, New York County, NY, US",
+        "color": "",
+        "source": "MapQuest Open",
+        "precision": "NEIGHBORHOOD",
+        "Home_Games_Played": 41,
+        "Lockout_Season": 33
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.988898,
+          40.724579
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "City": "Salt Lake City",
+        "Team": "Jazz",
+        "HomeWins_2017": 20,
+        "HomeWins_2016": 24,
+        "HomeWins_2015": 21,
+        "HomeWins_2014": 16,
+        "HomeWins_2013": 30,
+        "HomeWins_2012": 25,
+        "HomeWins_2011": 21,
+        "name": "Salt Lake City",
+        "desc": "Salt Lake City, Utah, UT, US",
+        "color": "",
+        "source": "MapQuest Open",
+        "precision": "city/town",
+        "Home_Games_Played": 41,
+        "Lockout_Season": 33
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.890431,
+          40.767013
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "City": "Miami",
+        "Team": "Heat",
+        "HomeWins_2017": 14,
+        "HomeWins_2016": 28,
+        "HomeWins_2015": 20,
+        "HomeWins_2014": 32,
+        "HomeWins_2013": 37,
+        "HomeWins_2012": 28,
+        "HomeWins_2011": 30,
+        "name": "Miami",
+        "desc": "Miami, Miami-Dade County, FL, US",
+        "color": "",
+        "source": "MapQuest Open",
+        "precision": "city/town",
+        "Home_Games_Played": 41,
+        "Lockout_Season": 33
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.193659,
+          25.774266
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "City": "Dallas",
+        "Team": "Mavericks",
+        "HomeWins_2017": 15,
+        "HomeWins_2016": 23,
+        "HomeWins_2015": 27,
+        "HomeWins_2014": 26,
+        "HomeWins_2013": 24,
+        "HomeWins_2012": 23,
+        "HomeWins_2011": 29,
+        "name": "Dallas",
+        "desc": "Dallas, Dallas County, TX, US",
+        "color": "",
+        "source": "MapQuest Open",
+        "precision": "city/town",
+        "Home_Games_Played": 41,
+        "Lockout_Season": 33
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.796856,
+          32.776272
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "City": "Oakland",
+        "Team": "Warriors",
+        "HomeWins_2017": 26,
+        "HomeWins_2016": 39,
+        "HomeWins_2015": 39,
+        "HomeWins_2014": 27,
+        "HomeWins_2013": 28,
+        "HomeWins_2012": 12,
+        "HomeWins_2011": 26,
+        "name": "Oakland",
+        "desc": "Oakland, Alameda County, CA, US",
+        "color": "",
+        "source": "MapQuest Open",
+        "precision": "city/town",
+        "Home_Games_Played": 41,
+        "Lockout_Season": 33
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.271356,
+          37.804456
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "City": "Portland",
+        "Team": "Trail Blazers",
+        "HomeWins_2017": 14,
+        "HomeWins_2016": 28,
+        "HomeWins_2015": 32,
+        "HomeWins_2014": 31,
+        "HomeWins_2013": 22,
+        "HomeWins_2012": 20,
+        "HomeWins_2011": 30,
+        "name": "Portland",
+        "desc": "Portland, Multnomah County, OR, US",
+        "color": "",
+        "source": "MapQuest Open",
+        "precision": "city/town",
+        "Home_Games_Played": 41,
+        "Lockout_Season": 33
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.674195,
+          45.520247
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "City": "Los Angeles",
+        "Team": "Clippers",
+        "HomeWins_2017": 19,
+        "HomeWins_2016": 29,
+        "HomeWins_2015": 30,
+        "HomeWins_2014": 34,
+        "HomeWins_2013": 32,
+        "HomeWins_2012": 24,
+        "HomeWins_2011": 23,
+        "name": "Los Angeles",
+        "desc": "Los Angeles, Los Angeles County, CA, US",
+        "color": "",
+        "source": "MapQuest Open",
+        "precision": "city/town",
+        "Home_Games_Played": 41,
+        "Lockout_Season": 33
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.243941,
+          34.054394
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "City": "Los Angeles",
+        "Team": "Lakers",
+        "HomeWins_2017": 12,
+        "HomeWins_2016": 12,
+        "HomeWins_2015": 12,
+        "HomeWins_2014": 14,
+        "HomeWins_2013": 29,
+        "HomeWins_2012": 26,
+        "HomeWins_2011": 30,
+        "name": "Los Angeles",
+        "desc": "Los Angeles, Los Angeles County, CA, US",
+        "color": "",
+        "source": "MapQuest Open",
+        "precision": "city/town",
+        "Home_Games_Played": 41,
+        "Lockout_Season": 33
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.243941,
+          34.054394
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "City": "Boston",
+        "Team": "Celtics",
+        "HomeWins_2017": 20,
+        "HomeWins_2016": 28,
+        "HomeWins_2015": 21,
+        "HomeWins_2014": 16,
+        "HomeWins_2013": 27,
+        "HomeWins_2012": 24,
+        "HomeWins_2011": 33,
+        "name": "Boston",
+        "desc": "Boston, Suffolk County, MA, US",
+        "color": "",
+        "source": "MapQuest Open",
+        "precision": "city/town",
+        "Home_Games_Played": 41,
+        "Lockout_Season": 33
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.059568,
+          42.360482
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "City": "San Antonio",
+        "Team": "Spurs",
+        "HomeWins_2017": 19,
+        "HomeWins_2016": 40,
+        "HomeWins_2015": 33,
+        "HomeWins_2014": 32,
+        "HomeWins_2013": 35,
+        "HomeWins_2012": 28,
+        "HomeWins_2011": 36,
+        "name": "San Antonio",
+        "desc": "San Antonio, Bexar County, TX, US",
+        "color": "",
+        "source": "MapQuest Open",
+        "precision": "city/town",
+        "Home_Games_Played": 41,
+        "Lockout_Season": 33
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.49514,
+          29.4246
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "City": "Oklahoma City",
+        "Team": "Thunder",
+        "HomeWins_2017": 22,
+        "HomeWins_2016": 32,
+        "HomeWins_2015": 29,
+        "HomeWins_2014": 34,
+        "HomeWins_2013": 34,
+        "HomeWins_2012": 26,
+        "HomeWins_2011": 30,
+        "name": "Oklahoma City",
+        "desc": "Oklahoma City, Oklahoma County, OK, US",
+        "color": "",
+        "source": "MapQuest Open",
+        "precision": "city/town",
+        "Home_Games_Played": 41,
+        "Lockout_Season": 33
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.517054,
+          35.472989
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "City": "Orlando",
+        "Team": "Magic",
+        "HomeWins_2017": 10,
+        "HomeWins_2016": 23,
+        "HomeWins_2015": 13,
+        "HomeWins_2014": 19,
+        "HomeWins_2013": 12,
+        "HomeWins_2012": 21,
+        "HomeWins_2011": 29,
+        "name": "Orlando",
+        "desc": "Orlando, Orange County, FL, US",
+        "color": "",
+        "source": "MapQuest Open",
+        "precision": "city/town",
+        "Home_Games_Played": 41,
+        "Lockout_Season": 33
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.379046,
+          28.542118
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "City": "Sacramento",
+        "Team": "Kings",
+        "HomeWins_2017": 13,
+        "HomeWins_2016": 18,
+        "HomeWins_2015": 18,
+        "HomeWins_2014": 17,
+        "HomeWins_2013": 20,
+        "HomeWins_2012": 16,
+        "HomeWins_2011": 11,
+        "name": "Sacramento",
+        "desc": "Sacramento",
+        "color": "",
+        "source": "MapQuest Open",
+        "precision": "city/town",
+        "Home_Games_Played": 41,
+        "Lockout_Season": 33
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.5181,
+          38.649
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "City": "Philadelphia",
+        "Team": "76ers",
+        "HomeWins_2017": 14,
+        "HomeWins_2016": 7,
+        "HomeWins_2015": 12,
+        "HomeWins_2014": 10,
+        "HomeWins_2013": 23,
+        "HomeWins_2012": 19,
+        "HomeWins_2011": 26,
+        "name": "Philadelphia",
+        "desc": "Philadlphia",
+        "color": "",
+        "source": "MapQuest Open",
+        "precision": "city/town",
+        "Home_Games_Played": 41,
+        "Lockout_Season": 33
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.172,
+          39.9012
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "City": "Phoenix",
+        "Team": "Suns",
+        "HomeWins_2017": 10,
+        "HomeWins_2016": 14,
+        "HomeWins_2015": 22,
+        "HomeWins_2014": 26,
+        "HomeWins_2013": 17,
+        "HomeWins_2012": 19,
+        "HomeWins_2011": 23,
+        "name": "Phoenix",
+        "desc": "Phoenix",
+        "color": "",
+        "source": "MapQuest Open",
+        "precision": "city/town",
+        "Home_Games_Played": 41,
+        "Lockout_Season": 33
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.0712,
+          33.4457
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "City": "Charlotte",
+        "Team": "Hornets",
+        "HomeWins_2017": 16,
+        "HomeWins_2016": 30,
+        "HomeWins_2015": 19,
+        "HomeWins_2014": 25,
+        "HomeWins_2013": 15,
+        "HomeWins_2012": 4,
+        "HomeWins_2011": 21,
+        "name": "Charlotte",
+        "desc": "Charlotte",
+        "color": "",
+        "source": "MapQuest Open",
+        "precision": "city/town",
+        "Home_Games_Played": 41,
+        "Lockout_Season": 33
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.8392,
+          35.2251
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "City": "Indianapolis",
+        "Team": "Pacers",
+        "HomeWins_2017": 21,
+        "HomeWins_2016": 26,
+        "HomeWins_2015": 23,
+        "HomeWins_2014": 35,
+        "HomeWins_2013": 30,
+        "HomeWins_2012": 23,
+        "HomeWins_2011": 24,
+        "name": "Indianapolis",
+        "desc": "Indianapolis",
+        "color": "",
+        "source": "MapQuest Open",
+        "precision": "city/town",
+        "Home_Games_Played": 41,
+        "Lockout_Season": 33
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.1555,
+          39.7639
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "City": "Houston",
+        "Team": "Rockets",
+        "HomeWins_2017": 22,
+        "HomeWins_2016": 28,
+        "HomeWins_2015": 30,
+        "HomeWins_2014": 33,
+        "HomeWins_2013": 29,
+        "HomeWins_2012": 22,
+        "HomeWins_2011": 25,
+        "name": "Houston",
+        "desc": "Houston",
+        "color": "",
+        "source": "MapQuest Open",
+        "precision": "city/town",
+        "Home_Games_Played": 41,
+        "Lockout_Season": 33
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.3621,
+          29.7508
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "City": "Memphis",
+        "Team": "Grizzlies",
+        "HomeWins_2017": 18,
+        "HomeWins_2016": 26,
+        "HomeWins_2015": 31,
+        "HomeWins_2014": 27,
+        "HomeWins_2013": 32,
+        "HomeWins_2012": 26,
+        "HomeWins_2011": 30,
+        "name": "Memphis",
+        "desc": "Memphis",
+        "color": "",
+        "source": "MapQuest Open",
+        "precision": "city/town",
+        "Home_Games_Played": 41,
+        "Lockout_Season": 33
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.0505,
+          35.1382
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "City": "Washington D.C.",
+        "Team": "Wizards",
+        "HomeWins_2017": 24,
+        "HomeWins_2016": 22,
+        "HomeWins_2015": 29,
+        "HomeWins_2014": 22,
+        "HomeWins_2013": 22,
+        "HomeWins_2012": 11,
+        "HomeWins_2011": 20,
+        "name": "Washington DC",
+        "desc": "Washington DC",
+        "color": "",
+        "source": "MapQuest Open",
+        "precision": "city/town",
+        "Home_Games_Played": 41,
+        "Lockout_Season": 33
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0209,
+          38.8981
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "City": "New Orleans",
+        "Team": "Pelicans",
+        "HomeWins_2017": 14,
+        "HomeWins_2016": 21,
+        "HomeWins_2015": 28,
+        "HomeWins_2014": 22,
+        "HomeWins_2013": 16,
+        "HomeWins_2012": 11,
+        "HomeWins_2011": 28,
+        "name": "New Orleans",
+        "desc": "New Orleans",
+        "color": "",
+        "source": "MapQuest Open",
+        "precision": "city/town",
+        "Home_Games_Played": 41,
+        "Lockout_Season": 33
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.0821,
+          29.949
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "City": "Atlanta",
+        "Team": "Hawks",
+        "HomeWins_2017": 16,
+        "HomeWins_2016": 27,
+        "HomeWins_2015": 35,
+        "HomeWins_2014": 24,
+        "HomeWins_2013": 25,
+        "HomeWins_2012": 23,
+        "HomeWins_2011": 24,
+        "name": "Atlanta",
+        "desc": "Atlanta",
+        "color": "",
+        "source": "MapQuest Open",
+        "precision": "city/town",
+        "Home_Games_Played": 41,
+        "Lockout_Season": 33
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.3963,
+          33.7573
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "City": "Detroit",
+        "Team": "Pistons",
+        "HomeWins_2017": 18,
+        "HomeWins_2016": 26,
+        "HomeWins_2015": 18,
+        "HomeWins_2014": 17,
+        "HomeWins_2013": 18,
+        "HomeWins_2012": 18,
+        "HomeWins_2011": 21,
+        "name": "Auburn Hills",
+        "desc": "Detroit",
+        "color": "",
+        "source": "MapQuest Open",
+        "precision": "city/town",
+        "Home_Games_Played": 41,
+        "Lockout_Season": 33
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.2458,
+          42.6969
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "City": "Milwaukee",
+        "Team": "Bucks",
+        "HomeWins_2017": 15,
+        "HomeWins_2016": 23,
+        "HomeWins_2015": 23,
+        "HomeWins_2014": 10,
+        "HomeWins_2013": 21,
+        "HomeWins_2012": 17,
+        "HomeWins_2011": 22,
+        "name": "Milwaukee",
+        "desc": "Milwaukee",
+        "color": "",
+        "source": "MapQuest Open",
+        "precision": "city/town",
+        "Home_Games_Played": 41,
+        "Lockout_Season": 33
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.9178,
+          43.0419
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "City": "Brooklyn",
+        "Team": "Nets",
+        "HomeWins_2017": 7,
+        "HomeWins_2016": 14,
+        "HomeWins_2015": 19,
+        "HomeWins_2014": 28,
+        "HomeWins_2013": 26,
+        "HomeWins_2012": 9,
+        "HomeWins_2011": 19,
+        "name": "Brooklyn",
+        "desc": "Brooklyn",
+        "color": "",
+        "source": "MapQuest Open",
+        "precision": "city/town",
+        "Home_Games_Played": 41,
+        "Lockout_Season": 33
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.975,
+          40.6825
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "City": "Minneapolis",
+        "Team": "Timberwolves",
+        "HomeWins_2017": 15,
+        "HomeWins_2016": 14,
+        "HomeWins_2015": 9,
+        "HomeWins_2014": 24,
+        "HomeWins_2013": 20,
+        "HomeWins_2012": 13,
+        "HomeWins_2011": 12,
+        "name": "Minneapolis",
+        "desc": "Minneapolis",
+        "color": "",
+        "source": "MapQuest Open",
+        "precision": "city/town",
+        "Home_Games_Played": 41,
+        "Lockout_Season": 33
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.2762,
+          44.9795
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "City": "Denver Nuggets",
+        "Team": "",
+        "HomeWins_2017": 16,
+        "HomeWins_2016": 18,
+        "HomeWins_2015": 19,
+        "HomeWins_2014": 22,
+        "HomeWins_2013": 38,
+        "HomeWins_2012": 20,
+        "HomeWins_2011": 33,
+        "name": "Denver",
+        "desc": "Denver",
+        "color": "",
+        "source": "MapQuest Open",
+        "precision": "city/town",
+        "Home_Games_Played": 41,
+        "Lockout_Season": 33
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.0077,
+          39.7487
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+name,City,Team,Pop_2011,Pop_2012,Pop_2013,Pop_2014,Pop_2015,Pop_2016,Pop_2017,latitude,longitude,desc,color,source,arena_size,lon,lat,Conference
+Chicago,Chicago,Bulls,21791,22161,21876,21716,21343,21820,21615,41.875555,-87.624421,"Chicago, Cook County, IL, US",MapQuest Open,city/town,23000,-87.624421,41.875555,Eastern
+Cleveland,Cleveland,Cavaliers,20112,15926,16192,17329,20562,20562,20562,41.505161,-81.693445,"Cleveland, Cuyahoga County, OH, US",MapQuest Open,city/town,20562,-81.693445,41.505161,Eastern
+Toronto,Toronto,Raptors,16566,16835,18144,18252,19751,19825,19846,43.652921,-79.384901,"Toronto, ON, CA",MapQuest Open,city/town,20511,-79.384901,43.652921,Eastern
+New York City,New York City,Knicks,19728,19763,19033,19812,19812,19812,19812,40.724579,-73.988898,"New York City, New York County, NY, US",MapQuest Open,NEIGHBORHOOD,20789,-73.988898,40.724579,Eastern
+Salt Lake City,Salt Lake City,Jazz,19511,19306,18680,18175,18830,19304,19653,40.767013,-111.890431,"Salt Lake City, Utah, UT, US",MapQuest Open,city/town,19911,-111.890431,40.767013,Western
+Miami,Miami,Heat,19778,19935,19982,19781,19712,19740,19637,25.774266,-80.193659,"Miami, Miami-Dade County, FL, US",MapQuest Open,city/town,20021,-80.193659,25.774266,Eastern
+Dallas,Dallas,Mavericks,20101,20334,20036,19950,20187,20143,19636,32.776272,-96.796856,"Dallas, Dallas County, TX, US",MapQuest Open,city/town,21000,-96.796856,32.776272,Western
+Oakland,Oakland,Warriors,18692,18857,19373,19596,19596,19596,19596,37.804456,-122.271356,"Oakland, Alameda County, CA, US",MapQuest Open,city/town,19596,-122.271356,37.804456,Western
+Portland,Portland,Trail Blazers,20510,20496,19829,19746,19554,19367,19194,45.520247,-122.674195,"Portland, Multnomah County, OR, US",MapQuest Open,city/town,21538,-122.674195,45.520247,Western
+Los Angeles,Los Angeles,Clippers,17742,19219,19226,19212,19168,19192,19080,34.054394,-118.243941,"Los Angeles, Los Angeles County, CA, US",MapQuest Open,city/town,21000,-118.243941,34.054394,Western
+Los Angeles,Los Angeles,Lakers,18997,18997,18997,18828,18737,18997,18901,34.054394,-118.243941,"Los Angeles, Los Angeles County, CA, US",MapQuest Open,city/town,21000,-118.243941,34.054394,Western
+Boston,Boston,Celtics,18624,18624,18624,18107,17593,18270,18516,42.360482,-71.059568,"Boston, Suffolk County, MA, US",MapQuest Open,city/town,18624,-71.059568,42.360482,Eastern
+San Antonio,San Antonio,Spurs,18314,18396,18431,18415,18606,18449,18426,29.4246,-98.49514,"San Antonio, Bexar County, TX, US",MapQuest Open,city/town,19000,-98.49514,29.4246,Western
+Oklahoma City,Oklahoma City,Thunder,18148,18203,18203,18203,18203,18203,18203,35.472989,-97.517054,"Oklahoma City, Oklahoma County, OK, US",MapQuest Open,city/town,18203,-97.517054,35.472989,Western
+Orlando,Orlando,Magic,18972,18896,17595,16245,16785,17543,17905,28.542118,-81.379046,"Orlando, Orange County, FL, US",MapQuest Open,city/town,20000,-81.379046,28.542118,Eastern
+Sacramento,Sacramento,Kings,13890,14508,13749,16291,16586,17256,17608,38.649,-121.5181,city/town,,,18000,-121.5181,38.649,Western
+Philadelphia,Philadelphia,76ers,14751,17502,16717,13869,13940,14881,17287,39.9012,-75.172,city/town,,,21600,-75.172,39.9012,Eastern
+Phoenix,Phoenix,Suns,17567,15597,15436,15871,16923,17107,17267,33.4457,-112.0712,city/town,,,18055,-112.0712,33.4457,Western
+Charlotte,Charlotte,Hornets,15846,14757,15324,15518,17192,17485,17229,35.2251,-80.8392,city/town,,,19077,-80.8392,35.2251,Eastern
+Indianapolis,Indianapolis,Pacers,13538,14168,15269,17501,16864,16847,16694,39.7639,-86.1555,city/town,,,17923,-86.1555,39.7639,Eastern
+Houston,Houston,Rockets,16191,15363,16672,18123,18229,17981,16593,29.7508,-95.3621,city/town,,,19000,-95.3621,29.7508,Western
+Memphis,Memphis,Grizzlies,14650,15704,16624,16718,17329,16697,16404,35.1382,-90.0505,city/town,,,18119,-90.0505,35.1382,Western
+Washington DC,Washington D.C.,Wizards,16791,16728,16343,17026,18238,17693,16213,38.8981,-77.0209,city/town,,,20356,-77.0209,38.8981,Eastern
+New Orleans,New Orleans,Pelicans,14709,15109,13803,16390,16677,16793,16026,29.949,-90.0821,city/town,,,16867,-90.0821,29.949,Western
+Atlanta,Atlanta,Hawks,15648,15199,15125,14339,17412,16832,15847,33.7573,-84.3963,city/town,,,19049,-84.3963,33.7573,Eastern
+Auburn Hills,Detroit,Pistons,16660,14413,14782,15005,15266,16515,15416,42.6969,-83.2458,city/town,,,19971,-83.2458,42.6969,Eastern
+Milwaukee,Milwaukee,Bucks,15412,14718,15035,13487,14907,15166,15406,43.0419,-87.9178,city/town,,,18717,-87.9178,43.0419,Eastern
+Brooklyn,Brooklyn,Nets,14179,13961,17187,17251,17037,15125,15310,40.6825,-73.975,city/town,,,18103,-73.975,40.6825,Eastern
+Minneapolis,Minneapolis,Timberwolves,15242,17490,16340,14564,14528,14175,14226,44.9795,-93.2762,city/town,,,19356,-93.2762,44.9795,Western
+Denver ,Denver,Nuggets,16901,17029,17819,16899,14700,14095,14188,39.7487,-105.0077,city/town,,,18007,-105.0077,39.7487,Western

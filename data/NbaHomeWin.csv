@@ -14,18 +14,18 @@ Boston,Celtics,20,28,21,16,27,24,33,42.360482,-71.059568,Boston,"Boston, Suffolk
 San Antonio,Spurs,19,40,33,32,35,28,36,29.4246,-98.49514,San Antonio,"San Antonio, Bexar County, TX, US",,MapQuest Open,city/town,41,33
 Oklahoma City,Thunder,22,32,29,34,34,26,30,35.472989,-97.517054,Oklahoma City,"Oklahoma City, Oklahoma County, OK, US",,MapQuest Open,city/town,41,33
 Orlando,Magic,10,23,13,19,12,21,29,28.542118,-81.379046,Orlando,"Orlando, Orange County, FL, US",,MapQuest Open,city/town,41,33
-Sacramento,Kings,13,18,18,17,20,16,11,38.649,-121.5181,Sacramento,,,,city/town,41,33
-Philadelphia,76ers,14,7,12,10,23,19,26,39.9012,-75.172,Philadelphia,,,,city/town,41,33
-Phoenix,Suns,10,14,22,26,17,19,23,33.4457,-112.0712,Phoenix,,,,city/town,41,33
-Charlotte,Hornets,16,30,19,25,15,4,21,35.2251,-80.8392,Charlotte,,,,city/town,41,33
-Indianapolis,Pacers,21,26,23,35,30,23,24,39.7639,-86.1555,Indianapolis,,,,city/town,41,33
-Houston,Rockets,22,28,30,33,29,22,25,29.7508,-95.3621,Houston,,,,city/town,41,33
-Memphis,Grizzlies,18,26,31,27,32,26,30,35.1382,-90.0505,Memphis,,,,city/town,41,33
-Washington D.C.,Wizards,24,22,29,22,22,11,20,38.8981,-77.0209,Washington DC,,,,city/town,41,33
-New Orleans,Pelicans,14,21,28,22,16,11,28,29.949,-90.0821,New Orleans,,,,city/town,41,33
-Atlanta,Hawks,16,27,35,24,25,23,24,33.7573,-84.3963,Atlanta,,,,city/town,41,33
-Detroit,Pistons,18,26,18,17,18,18,21,42.6969,-83.2458,Auburn Hills,,,,city/town,41,33
-Milwaukee,Bucks,15,23,23,10,21,17,22,43.0419,-87.9178,Milwaukee,,,,city/town,41,33
-Brooklyn,Nets,7,14,19,28,26,9,19,40.6825,-73.975,Brooklyn,,,,city/town,41,33
-Minneapolis,Timberwolves,15,14,9,24,20,13,12,44.9795,-93.2762,Minneapolis,,,,city/town,41,33
-Denver Nuggets,,16,18,19,22,38,20,33,39.7487,-105.0077,Denver,,,,city/town,41,33
+Sacramento,Kings,13,18,18,17,20,16,11,38.649,-121.5181,Sacramento,Sacramento,,MapQuest Open,city/town,41,33
+Philadelphia,76ers,14,7,12,10,23,19,26,39.9012,-75.172,Philadelphia,Philadlphia,,MapQuest Open,city/town,41,33
+Phoenix,Suns,10,14,22,26,17,19,23,33.4457,-112.0712,Phoenix,Phoenix,,MapQuest Open,city/town,41,33
+Charlotte,Hornets,16,30,19,25,15,4,21,35.2251,-80.8392,Charlotte,Charlotte,,MapQuest Open,city/town,41,33
+Indianapolis,Pacers,21,26,23,35,30,23,24,39.7639,-86.1555,Indianapolis,Indianapolis,,MapQuest Open,city/town,41,33
+Houston,Rockets,22,28,30,33,29,22,25,29.7508,-95.3621,Houston,Houston,,MapQuest Open,city/town,41,33
+Memphis,Grizzlies,18,26,31,27,32,26,30,35.1382,-90.0505,Memphis,Memphis,,MapQuest Open,city/town,41,33
+Washington D.C.,Wizards,24,22,29,22,22,11,20,38.8981,-77.0209,Washington DC,Washington DC,,MapQuest Open,city/town,41,33
+New Orleans,Pelicans,14,21,28,22,16,11,28,29.949,-90.0821,New Orleans,New Orleans,,MapQuest Open,city/town,41,33
+Atlanta,Hawks,16,27,35,24,25,23,24,33.7573,-84.3963,Atlanta,Atlanta,,MapQuest Open,city/town,41,33
+Detroit,Pistons,18,26,18,17,18,18,21,42.6969,-83.2458,Auburn Hills,Detroit,,MapQuest Open,city/town,41,33
+Milwaukee,Bucks,15,23,23,10,21,17,22,43.0419,-87.9178,Milwaukee,Milwaukee,,MapQuest Open,city/town,41,33
+Brooklyn,Nets,7,14,19,28,26,9,19,40.6825,-73.975,Brooklyn,Brooklyn,,MapQuest Open,city/town,41,33
+Minneapolis,Timberwolves,15,14,9,24,20,13,12,44.9795,-93.2762,Minneapolis,Minneapolis,,MapQuest Open,city/town,41,33
+Denver Nuggets,,16,18,19,22,38,20,33,39.7487,-105.0077,Denver,Denver,,MapQuest Open,city/town,41,33
